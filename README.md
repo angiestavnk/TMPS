@@ -1,1 +1,1 @@
-# Structural Design Patterns (Using TypeScript)
+# Structural Design Patterns
